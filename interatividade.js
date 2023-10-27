@@ -1,7 +1,7 @@
 const paineis = document.querySelectorAll('.panel');
 
 function clicar() {
-    console.log('Deu certo');
+    console.log('Deu cert');
 };
 
 for(var i = 0; i < paineis.length; i++) {
